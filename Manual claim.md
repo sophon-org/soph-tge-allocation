@@ -2,7 +2,7 @@
 
 ## Getting needed data
 
-Open the Merkle Tree file [here](./merkletree.json) and locate your address.
+Open the Merkle Tree file and locate your address. Look at both files for it (it was split because of Github limits).
 
 You will find something like this:
 
